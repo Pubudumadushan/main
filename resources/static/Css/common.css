@@ -1,0 +1,20 @@
+
+
+
+.form-control{
+    border: 1px solid  rgb(0, 102, 255) ;
+}
+
+.form-select{
+    border:1px solid  rgb(0, 102, 255) ;
+}
+
+
+
+.form-control:hover{
+    border: 2px solid  rgb(0, 102, 255)  ;
+}
+
+.form-select:hover{
+    border:2px solid  rgb(0, 102, 255)  ;
+}

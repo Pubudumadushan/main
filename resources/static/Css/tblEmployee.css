@@ -1,0 +1,49 @@
+
+section{
+
+    background-color: rgb(132, 181, 255);
+    border: 3px solid rgb(0, 102, 255);
+    padding:8px;
+    border-radius:20px 20px 0 0;
+
+}
+
+
+
+.nav-item{
+
+    background-color:white;
+    border: 3px solid rgb(0, 102, 255);
+    border-radius: 10px;
+}
+
+.working-status{
+
+    font-weight: bold;
+    background-color: rgb(0, 255, 21);
+    text-align: center;
+    border-radius: 5px;
+}
+
+.resign-status{
+
+    font-weight: bold;
+    background-color: rgb(127, 204, 255);
+    text-align: center;
+    border-radius: 5px;
+}
+
+.deleted-status{
+
+    font-weight: bold;
+    background-color: rgb(255, 70, 37);
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
